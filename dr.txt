@@ -1,0 +1,11 @@
+ex04
+
+18/20
+
+S'il vous plaît utiliser les noms de projet plus courts (comme ex04); 
+lorsque j'utilise git je dois taper le nom de projet.
+
+-1 utiliser le formatage correct 
+voir Dart Style Guide
+
+-1 où sont des fonctions en plus de main pour 3, 4 et 5
